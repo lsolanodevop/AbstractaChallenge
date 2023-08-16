@@ -1,5 +1,5 @@
 {
-  "name": "leniolabstest",
+  "name": "abstractaChallenge",
   "version": "1.0.0",
   "description": "Basic Configuration for the Challenge",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lsolanodevop/LenioLabsTest.git"
+    "url": "git+https://github.com/lsolanodevop/AbstractaChallenge.git"
   },
   "author": "Leonardo Solano",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lsolanodevop/LenioLabsTest/issues"
+    "url": "https://github.com/lsolanodevop/AbstractaChallenge/issues"
   },
-  "homepage": "https://github.com/lsolanodevop/LenioLabsTest#readme",
+  "homepage": "https://github.com/lsolanodevop/AbstractaChallenge#readme",
   "devDependencies": {
     "@playwright/test": "^1.36.0",
     "@types/node": "^20.4.1",
